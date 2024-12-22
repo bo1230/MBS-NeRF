@@ -37,3 +37,6 @@ https://github.com/user-attachments/assets/baa0d723-328f-4201-a5f4-eb1323f27948
 
 https://github.com/user-attachments/assets/d4db4ca1-86bf-4318-9fef-7ad7dab66f0f
 
+## Acknowledge
+This source code is derived from the famous pytorch reimplementation of  [Deblur-NeRF](https://github.com/limacv/Deblur-NeRF) and [BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF). We appreciate the effort of the contributor to that repository.
+
